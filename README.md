@@ -10,7 +10,7 @@ This repository contains analytics projects covering:
 
 ##  Featured Projects
 
-### **1️⃣ SQL Project – 🍕 Restaurant Sales Analysis**
+## **1️⃣ SQL Project – 🍕 Restaurant Sales Analysis**
 **Skills Used:** Joins, Group By, Aggregations, Subqueries
 
 **Highlights:**
@@ -18,8 +18,7 @@ This repository contains analytics projects covering:
 - Revenue insights  
 - Customer behaviour
 - Order trends  
-
-### 📁 SQL Scripts
-You can find all SQL queries of the project here:  
-[Click to open SQL Scripts Folder](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts)
+### 📁  Restaurant Sales Analysis Project folder
+You can find the project here:  
+[Click to know more about this SQL Aalysis project](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts)
 
