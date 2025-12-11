@@ -32,13 +32,14 @@ SELECT COUNT(DISTINCT order_id ) AS total_unique_orders
 FROM  order_details;	
 
 
--- 5. Which orders had the most number of items?
+-- 5. Which orders had the most number of items (limiting by top 5)? 
 SELECT 
 	order_id,
 	COUNT(item_id) as number_of_items
 FROM order_details
 GROUP BY order_id
-ORDER BY num_items DESC;
+ORDER BY number_of_items DESC
+LIMIT 5;
 
 -- 6. How many orders had more than 12 items?
 SELECT COUNT(*) AS num_orders_more_than_12
