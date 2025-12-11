@@ -6,7 +6,7 @@ This repository contains analytics projects covering:
 - ✔️ Data cleaning & transformation  
 - ✔️ Joins, aggregations, window functions  
 - ✔️ Real-world business questions solved using SQL  
-- ✔️ Dashboards (Power BI / Tableau)  
+- ✔️ Dashboards (Power BI)  
 - ✔️ Documentation for each project
 
 ## 📘 Featured Projects
