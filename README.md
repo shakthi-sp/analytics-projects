@@ -8,3 +8,16 @@ This repository contains analytics projects covering:
 - ✔️ Real-world business questions solved using SQL  
 - ✔️ Dashboards (Power BI / Tableau)  
 - ✔️ Documentation for each project
+
+## 📘 Featured Projects
+
+### **1️⃣ SQL Project – Restaurant Sales Analysis**
+**Skills Used:** Joins, Group By, Aggregations, Subqueries
+**Highlights:**
+- Most/least ordered items  
+- Revenue insights  
+- Customer behaviour patterns  
+- Order trends  
+
+👉 *Full query file:* `/SQL/project_1/queries.sql`  
+👉 *Insights:* `/SQL/project_1/insights.md`
