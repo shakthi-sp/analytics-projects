@@ -19,5 +19,5 @@ This repository contains analytics projects covering:
 - Customer behaviour patterns  
 - Order trends  
 
-👉 *Full query file:* `/SQL/project_1/queries.sql`  
+👉 *Folder containing SQL Scripts:* `Restaurant Sales Analysis/SQL Scripts`  
 👉 *Insights:* `/SQL/project_1/insights.md`
