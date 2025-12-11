@@ -82,3 +82,37 @@ Scripts included:
 
 
 ---
+
+## 📸 Key Screenshots
+
+### 1️⃣ Menu Items — First 10 Rows
+![Menu Items Preview](./Screenshots/menu_items_preview.png)
+
+### 2️⃣ Top 5 Most Expensive Items
+![Most Expensive Items](./Screenshots/menu_items_top_5_expensive.png)
+
+### 3️⃣ Category-wise Item Count
+![Category Count](./Screenshots/category_item_count.png)
+
+---
+
+### 4️⃣ Order Details — First 10 Rows
+![Order Details Preview](./Screenshots/order_details_preview.png)
+
+### 5️⃣ Orders with Highest Item Count
+![Top Item Count Orders](./Screenshots/orders_top_item_count.png)
+
+### 6️⃣ Date Range Summary
+![Date Range](./Screenshots/order_date_range.png)
+
+---
+
+### 7️⃣ Most Ordered Items with Category
+![Most Ordered Items](./Screenshots/most_ordered_items.png)
+
+### 8️⃣ Top 5 Highest Spending Orders
+![Top Spending Orders](./Screenshots/top_5_spending_orders.png)
+
+### 9️⃣ Category Breakdown of Highest Spending Order
+![High Spend Order Breakdown](./Screenshots/high_spend_order_category_breakdown.png)
+
