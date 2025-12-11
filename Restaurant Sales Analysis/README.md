@@ -154,30 +154,6 @@ These insights can support decisions on:
 - Marketing strategies  
 - Pricing adjustments  
 
----
-
-## 📁 9. Folder Structure
-
-Restaurant Sales Analysis/
-│
-├── Dataset/
-│ ├── order_details.csv
-│ └── menu_items.csv
-│
-├── SQL Scripts/
-│ ├── 01_data_cleaning.sql
-│ ├── 02_basic_analysis.sql
-│ ├── 03_menu_analysis.sql
-│ └── 04_sales_analysis.sql
-│
-├── Screenshots/
-│ ├── 01_table_preview.png
-│ ├── 02_most_ordered_items.png
-│ ├── 03_top_spending_orders.png
-│ ├── 04_category_breakdown.png
-│
-└── README.md
-
 
 ---
 
