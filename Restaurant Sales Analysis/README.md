@@ -40,3 +40,45 @@ The goal of this project is to analyze restaurant sales data to understand:
 ➡️ *(Dataset files are stored inside the `Dataset` folder.)*
 
 ---
+
+## 🔧 3. Tools Used
+
+- **MySQL Workbench** — Data Transformation & analysis  
+- **Excel/CSV** — Source dataset  
+
+---
+
+## ❓ 4. Business Questions Answered
+
+### Menu Insights  
+- Which items were ordered the most?  
+- Which items were ordered the least?  
+- Which categories do they belong to? 
+
+### Orders Analysis  
+- What is the date range of the dataset?  
+- How many total items were ordered?  
+- How many distinct orders were placed?  
+- Which orders had the most number of items?  
+
+### Sales Insights  
+- Which 5 orders spent the most money?  
+- What categories contributed to those high spending orders?  
+- What patterns exist among high-value orders?
+
+---
+
+## 💻 5. SQL Scripts
+
+All SQL scripts used in this project are stored in the following folder:
+
+👉 **[Click to open SQL Scripts Folder](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts)**
+
+Scripts included:
+
+- `menu_item_analysis.sql`  
+- `order_details_analysis.sql`  
+- `customer_analysis_with_menu_and_order_details.sql`  
+
+
+---
