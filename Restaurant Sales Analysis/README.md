@@ -1,7 +1,7 @@
 # 🍕 Restaurant Sales Analytics Project
 
-A complete SQL-based analysis of restaurant order behavior, item performance, sales patterns, and category insights.  
-This project uses **MySQL** for data cleaning, transformation, and analytics.
+A SQL-based analysis of restaurant order behavior, item performance, sales patterns, and category insights.  
+This project uses **MySQL** for data cleaning, transformation, and analyzing raw restaurant data.
 
 ---
 
@@ -9,12 +9,12 @@ This project uses **MySQL** for data cleaning, transformation, and analytics.
 
 The goal of this project is to analyze restaurant sales data to understand:
 
-- Exploaring the menu items and order details
+- Menu item erformance
 - Finding total orders and items sold
 - Most and least ordered items  
 - Category-wise performance  
 - Highest spending customers  
-- Order patterns and menu insights 
+- Sales and demand trends
 
 ---
 
@@ -43,7 +43,7 @@ The goal of this project is to analyze restaurant sales data to understand:
 
 ## 🔧 3. Tools Used
 
-- **MySQL Workbench** — Data Transformation & analysis  
+- **MySQL Workbench** — Data Preparation & analysis  
 - **Excel/CSV** — Source dataset  
 
 ---
@@ -51,8 +51,7 @@ The goal of this project is to analyze restaurant sales data to understand:
 ## ❓ 4. Business Questions Answered
 
 ### Menu Insights  
-- Which items were ordered the most?  
-- Which items were ordered the least?  
+- Which items were ordered the most & least?  
 - Which categories do they belong to? 
 
 ### Orders Analysis  
@@ -61,10 +60,9 @@ The goal of this project is to analyze restaurant sales data to understand:
 - How many distinct orders were placed?  
 - Which orders had the most number of items?  
 
-### Sales Insights  
-- Which 5 orders spent the most money?  
+### Sales Insights
+- Who are the highest-spending customers?
 - What categories contributed to those high spending orders?  
-- What patterns exist among high-value orders?
 
 ---
 
@@ -102,9 +100,6 @@ Scripts included:
 ### 5️⃣ Orders with Highest Item Count
 ![Top Item Count Orders](./Screenshots/orders_top_item_count.png)
 
-### 6️⃣ Date Range Summary
-![Date Range](./Screenshots/order_date_range.png)
-
 ---
 
 ### 7️⃣ Most Ordered Items with Category
@@ -116,43 +111,37 @@ Scripts included:
 ### 9️⃣ Category Breakdown of Highest Spending Order
 ![High Spend Order Breakdown](./Screenshots/high_spend_order_category_breakdown.png)
 
-
 ---
 
 ## 🔍 7. Insights & Findings
 
 ### ⭐ Key Insights
 
-| Insight | Explanation |
-|--------|-------------|
-| 🔹 **Most ordered items** | The Asian and American categories dominate the top 5 most ordered items. These items have 200+ purchases, indicating strong customer preference. 
-| 🔹 **Least ordered items** | The least-ordered items belong to Italian, Mexican, and American, but they all fall in the 50–90 orders range. These items might need menu redesign, pricing adjustment, or better promotion. |
-| 🔹 **Customer preferences** | High spenders buy items from multiple categories, not just one. |
+- **Asian & American dishes** dominate the most-ordered items (200+ orders each).
 
-### ⭐ Additional Observations
+- Least ordered items come from Italian, Mexican, and American categories, with only 50–90 orders.
 
-- Large orders typically contain **8–15+ items**.  
-- Categories like **American** and **Asian** appear frequently in high-value orders.  
-- Menu items priced between ₹7–₹14 make up a large percentage of total sales.
+- High-value customers consistently order across **multiple categories**, not just one cuisine.
 
----
+- **Large orders contain 8–15+ items,** often combining top-selling categories.
+
+- Items priced between **$7–$14** make up most of the sales volum
 
 ## 🚀 8. Conclusion
 
 This SQL analysis reveals clear trends in restaurant sales, including:
 
-- Popular and unpopular items  
+- Menu performance
 - Customer purchase behavior  
 - Category-level performance  
-- High-value order structure  
+- High-value order characteristics 
 
 These insights can support decisions on:
 
-- Menu optimization  
-- Inventory planning  
-- Marketing strategies  
-- Pricing adjustments  
-
+- Menu optimization
+- Pricing strategy
+- Promotion planning
+- Inventory and forecasting 
 
 ---
 
@@ -161,7 +150,7 @@ These insights can support decisions on:
 - Add Power BI dashboard  
 - Add Python-based automation  
 - Add advanced SQL (CTEs, window functions)  
-- Add interactive visuals  
+- Add interactive visualizations 
 
 ---
 
