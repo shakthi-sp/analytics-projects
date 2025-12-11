@@ -125,7 +125,7 @@ Scripts included:
 
 | Insight | Explanation |
 |--------|-------------|
-| 🔹 **Most ordered items** | The Asian and American categories dominate the top 5 most ordered items.|| These items have 200+ purchases, indicating strong customer preference. 
+| 🔹 **Most ordered items** | The Asian and American categories dominate the top 5 most ordered items. These items have 200+ purchases, indicating strong customer preference. 
 | 🔹 **Least ordered items** | Certain bakery items show low demand. |
 | 🔹 **High-value orders** | Top 5 orders consisted mainly of fast-food + beverages. |
 | 🔹 **Customer preferences** | High spenders buy items from multiple categories, not just one. |
