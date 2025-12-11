@@ -16,6 +16,7 @@ The goal of this project is to analyze restaurant sales data to understand:
 - Highest spending customers  
 - Order patterns and menu insights 
 
+---
 
 ### 📁 **menu_items Table**
 
