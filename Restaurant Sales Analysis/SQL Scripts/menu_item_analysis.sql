@@ -36,23 +36,23 @@ FROM menu_items
 ORDER BY price
 LIMIT 5;
 
--- 5. How many Italian dishes are there on the menu?
+-- 6.How many items are in each category?
+SELECT category,COUNT(item_name) AS number_of_items
+FROM menu_items 
+GROUP BY category;
+
+-- 7. How many Italian dishes are there on the menu?
 SELECT COUNT(*) AS Italian_dish_count
 FROM menu_items
 WHERE category = 'Italian';
 
--- 6. Least and most expensive Italian dishes
+-- 8. Least and most expensive Italian dishes
 SELECT *
 FROM menu_items
 WHERE category = 'Italian'
 ORDER BY price;
 
--- 7.How many items are in each category?
-SELECT category,COUNT(*) 
-FROM menu_items 
-GROUP BY category;
-
--- 8. What is the average price of dishes in each category?
+-- 9. What is the average price of dishes in each category?
 SELECT category, ROUND(AVG(price),2) AS average_price
 FROM menu_items
 GROUP BY category
