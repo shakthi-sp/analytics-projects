@@ -116,3 +116,77 @@ Scripts included:
 ### 9️⃣ Category Breakdown of Highest Spending Order
 ![High Spend Order Breakdown](./Screenshots/high_spend_order_category_breakdown.png)
 
+
+---
+
+## 🔍 7. Insights & Findings
+
+### ⭐ Key Insights
+
+| Insight | Explanation |
+|--------|-------------|
+| 🔹 **Most ordered items** | Beverages and fast-food items dominate orders. |
+| 🔹 **Least ordered items** | Certain bakery items show low demand. |
+| 🔹 **High-value orders** | Top 5 orders consisted mainly of fast-food + beverages. |
+| 🔹 **Customer preferences** | High spenders buy items from multiple categories, not just one. |
+
+### ⭐ Additional Observations
+
+- Large orders typically contain **8–15+ items**.  
+- Categories like **American** and **Asian** appear frequently in high-value orders.  
+- Menu items priced between ₹7–₹14 make up a large percentage of total sales.
+
+---
+
+## 🚀 8. Conclusion
+
+This SQL analysis reveals clear trends in restaurant sales, including:
+
+- Popular and unpopular items  
+- Customer purchase behavior  
+- Category-level performance  
+- High-value order structure  
+
+These insights can support decisions on:
+
+- Menu optimization  
+- Inventory planning  
+- Marketing strategies  
+- Pricing adjustments  
+
+---
+
+## 📁 9. Folder Structure
+
+Restaurant Sales Analysis/
+│
+├── Dataset/
+│ ├── order_details.csv
+│ └── menu_items.csv
+│
+├── SQL Scripts/
+│ ├── 01_data_cleaning.sql
+│ ├── 02_basic_analysis.sql
+│ ├── 03_menu_analysis.sql
+│ └── 04_sales_analysis.sql
+│
+├── Screenshots/
+│ ├── 01_table_preview.png
+│ ├── 02_most_ordered_items.png
+│ ├── 03_top_spending_orders.png
+│ ├── 04_category_breakdown.png
+│
+└── README.md
+
+
+---
+
+## ✨ Future Enhancements
+
+- Add Power BI dashboard  
+- Add Python-based automation  
+- Add advanced SQL (CTEs, window functions)  
+- Add interactive visuals  
+
+---
+
