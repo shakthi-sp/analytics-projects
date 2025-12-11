@@ -21,5 +21,5 @@ This repository contains analytics projects covering:
 
 ### 📁 SQL Scripts
 You can find all SQL queries of the project here:  
-[Click to open SQL Scripts Folder]([https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts])
+[Click to open SQL Scripts Folder](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts)
 
