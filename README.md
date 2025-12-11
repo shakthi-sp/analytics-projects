@@ -19,5 +19,5 @@ This repository contains analytics projects covering:
 - Customer behaviour
 - Order trends  
 ### 📁  Restaurant Sales Analysis Project folder
-You can find the project here:  [Click to know more about this SQL Analysis project](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis/SQL%20Scripts)
+You can find the project here:  [Click to know more about this SQL Analysis project](https://github.com/shakthi-sp/analytics-projects/tree/main/Restaurant%20Sales%20Analysis)
 
