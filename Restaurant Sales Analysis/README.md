@@ -2,8 +2,10 @@
 
 A complete SQL-based analysis of restaurant order behavior, item performance, sales patterns, and category insights.  
 This project uses **MySQL** for data cleaning, transformation, and analytics.
+
 ---
-🎯 1. Objective
+
+##🎯 1. Objective
 
 The goal of this project is to analyze restaurant sales data to understand:
 
