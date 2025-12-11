@@ -89,9 +89,6 @@ Scripts included:
 ### 2️⃣ Top 5 Most Expensive Items
 ![Most Expensive Items](./Screenshots/menu_items_top_5_expensive.png)
 
-### 3️⃣ Category-wise Item Count
-![Category Count](./Screenshots/Category-wise_item_count.png)
-
 ---
 
 ### 4️⃣ Order Details — First 10 Rows
