@@ -9,9 +9,9 @@ This repository contains analytics projects covering:
 - ✔️ Dashboards (Power BI)  
 - ✔️ Documentation for each project
 
-## 📘 Featured Projects
+##  Featured Projects
 
-### **1️⃣ SQL Project – Restaurant Sales Analysis**
+### **1️⃣ SQL Project – 🍕 Restaurant Sales Analysis**
 **Skills Used:** Joins, Group By, Aggregations, Subqueries
 **Highlights:**
 - Most/least ordered items  
